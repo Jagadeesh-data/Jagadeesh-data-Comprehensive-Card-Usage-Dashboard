@@ -1,4 +1,4 @@
-# Jagadeesh-Portfolio
+# Compherensive Card Usage Dashboard on RBI Credit and Debit Card Data to check the Bank Benchmark Performance Analysis
 
 ## About Me
 I am an MBA student specializing in Operations and Business Analytics at the University of Hyderabad. I completed an internship at Technocolabs Software from July 1, 2024, to August 30, 2024, where I honed my skills in data analysis, visualization, and dashboard development. My technical expertise includes Power BI (Power Query Editor), SQL, Python, Excel, and Tableau.
