@@ -10,6 +10,9 @@ I am an MBA student specializing in Operations and Business Analytics at the Uni
 - Explored trends by job role, age, education field, and salary hike, identifying key insights such as an average employee age of 36.92 years and a 16.1% attrition rate.
 - Utilized Power BI for data transformation and visualization, supported by SQL for querying and Python for analysis.
 - Tools: Power BI (Power Query Editor), SQL, Python, Excel.
+Drive Link for Dashboard: https://drive.google.com/file/d/15Kk0Rk0ZnmpmrFGLL22euFteCuUr88v6/view?usp=sharing 
+![Screenshot 2025-04-28 141227](https://github.com/user-attachments/assets/ab7ab828-76df-40d8-affc-6a7a507af927)
+
 
 ### Comprehensive Card Usage Dashboard (Main Project)
 - Developed a dashboard analyzing financial transaction data over five years (2019-2023) using 120 monthly datasets collected from the RBI website.
